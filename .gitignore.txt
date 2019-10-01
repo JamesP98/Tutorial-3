@@ -1,0 +1,5 @@
+SwitchOperatedTextMenu.class
+*.class
+SwitchOperated*
+./directory
+./directory/*.png
