@@ -58,7 +58,8 @@ public class SwitchOperatedTextMenu {
             switch (menuItem) {
                 case 1:
                     System.out.println("You've chosen item #1");
-                    // do something...
+			System.out.println("YOu've done it MATE");                   
+ // do something...
                     break;
                 case 2:
                     System.out.println("You've chosen item #2");
